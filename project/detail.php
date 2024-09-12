@@ -7,10 +7,22 @@
 $i=$_GET['index'];
 $blog_array= [
   [ // for each blog provide the following
-    'title'=>'The best comfort foods',
-    'content'=>'blah blah blah',
-    'author'=>'Milo Adams',
+    'title'=>'Day 1',
+    'content'=>'Today I went to the park and saw a squirrel.',
+    'author'=>'Sarah Ogden',
     'date'=>'09/12/2024',
+  ],
+  [
+    'title'=>'Day 2',
+    'content'=>'Today I went to the park and saw a bird.',
+    'author'=>'Sarah Ogden',
+    'date'=>'09/13/2024',
+  ],
+  [
+    'title'=>'Day 3',
+    'content'=>'Today I went to the park and saw a cat.',
+    'author'=>'Sarah Ogden',
+    'date'=>'09/14/2024',
   ]
 ]
 ?>
