@@ -5,10 +5,10 @@
 <?php
 $blog_array= [
   [ // for each blog provide the following
-    'title'=>'',
-    'content'=>'',
-    'author'=>'',
-    'date'=>'',
+    'title'=>'The best comfort foods',
+    'content'=>'blah blah blah',
+    'author'=>'Milo Adams',
+    'date'=>'09/12/2024',
   ]
 ]
 ?>
