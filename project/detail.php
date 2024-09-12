@@ -4,6 +4,7 @@
 <!-- Use Bootstrap to make it look nice -->
 
 <?php
+$i=$_GET['index'];
 $blog_array= [
   [ // for each blog provide the following
     'title'=>'The best comfort foods',
