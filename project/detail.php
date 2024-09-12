@@ -20,9 +20,6 @@ $blog_array= [
   
 </head>
 <body>
-  <?php for($i=0;$i<count($blog_array);$i++) { ?>
-  <h2><?=$blog_array[$i]['title']></h2>
-  <p><a href="detail.php?index=<?= $i ?>">Go to blog</a></p>
-   <? } ?>
+
 </body>
 </html>
