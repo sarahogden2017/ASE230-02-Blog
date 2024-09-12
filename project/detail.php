@@ -4,6 +4,9 @@
 <!-- Use Bootstrap to make it look nice -->
 
 <?php
+
+$i=$_GET['index'];
+
 $blog_array= [
   [ // for each blog provide the following
     'title'=>'The best comfort foods',
@@ -20,6 +23,8 @@ $blog_array= [
   
 </head>
 <body>
-
+<h1> <?=$blog_array[$i]['title']?> </h1>
+<h2> <?=$blog_array[$i]['author']?> </h2>
+  
 </body>
 </html>
