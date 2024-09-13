@@ -19,7 +19,12 @@ $blog_array= [
         What are your favorite comfort foods? Share your thoughts in the comments below!",
         'author'=>'Milo Adams',
         'date'=>'09/12/2024',
-    ]
+    ],
+    [
+        'title'=>'Top 3 Video Games of 2024',
+		'author'=>'Kayla Saunders',
+		'date'=>'09/12/2024',
+    ],
 ]
 ?>
 
