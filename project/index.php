@@ -22,8 +22,15 @@ $blog_array= [
     ],
     [
         'title'=>'Top 3 Video Games of 2024',
-		'author'=>'Kayla Saunders',
-		'date'=>'09/12/2024',
+	'content'=>'Here are the top 3 video games of 2024:<br>
+	<b>Astro Bot</b><br>
+	This game puts you in the body of a robot named Astro and has you explore a variety of planets to rescue Astro\'s lost robot friends. A creative game with amazing graphics! Astro Bot introduces new gameplay ideas and makes hundreds of references and homages to many other video games.<br>
+	<b>Star Wars Outlaws</b><br>
+	In this game, you play as Kay Vess, oung scoundrel with a price on her head looking for a big score. This gorgeous game relies on a combination of stealthy sneaking and blaster combat.<br>
+	<b>Price of Persia The Lost Crown</b><br>
+	This game is a reboot, but pulls from some of the best side-scrolling video games. You are put in the role of Sargon, an Immortal tasked with rescuing a prince. The controls are very intuitive and responds instantly.<br>',
+	'author'=>'Kayla Saunders',
+	'date'=>'09/12/2024',
     ],
 ]
 ?>
