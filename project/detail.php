@@ -13,7 +13,12 @@ $blog_array= [
         'content'=>'blah blah blah',
         'author'=>'Milo Adams',
         'date'=>'09/12/2024',
-    ]
+    ],
+    [
+        'title'=>'Top 3 Video Games of 2024',
+		'author'=>'Kayla Saunders',
+		'date'=>'09/12/2024',
+    ],
 ]
 ?>
 
