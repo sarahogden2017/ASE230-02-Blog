@@ -37,11 +37,13 @@ $blog_array= [
     ],
     [
         'title'=>'Best Vacation Spots',
-        'content'=>'The best vacation spots are:<br>
-                    <or><li>Rocky Mountains in Colorado</li>
-                    <li>Swimming with the Manatees in Florida</li>
-                    <li>Volcanos in Hawaii</li></ol>
-                    When you go on vacation be sure to take lots of pictues, bring your friends, and enjoy the nice weather.',
+        'content'=>'The best vacation spots are:</p>
+                    <ol class="list-group list-group-numbered">
+                        <li class="list-group-item">Rocky Mountains in Colorado</li>
+                        <li class="list-group-item">Swimming with the Manatees in Florida</li>
+                        <li class="list-group-item">Volcanos in Hawaii</li>
+                    </ol>
+                    <p class="lead">When you go on vacation be sure to take lots of pictues, bring your friends, and enjoy the nice weather.',
         'author'=>'Sarah Ogden',
         'date'=>'09/16/2024'
     ]

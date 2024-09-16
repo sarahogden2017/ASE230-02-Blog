@@ -34,8 +34,8 @@ $blog_array= [
     ],
     [
         'title'=>'Best Vacation Spots',
-        'content'=>'The best vacation spots are:<br>
-                    <or><li>Rocky Mountains in Colorado</li>
+        'content'=>'The best vacation spots are:
+                    <ol><li>Rocky Mountains in Colorado</li>
                     <li>Swimming with the Manatees in Florida</li>
                     <li>Volcanos in Hawaii</li></ol>
                     When you go on vacation be sure to take lots of pictues, bring your friends, and enjoy the nice weather.',
